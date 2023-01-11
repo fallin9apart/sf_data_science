@@ -1,6 +1,6 @@
 """ Игра угадай число. Компьютер загадывает и отгадывает число сам"""
 
-import numpy as np
+import testnumpy as np
 
 def random_predict(number:int=1) -> int:
     """Рандомно угадывает число

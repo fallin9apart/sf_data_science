@@ -1,7 +1,7 @@
 
 """ Игра угадай число"""
 
-import numpy as np 
+import testnumpy as np 
 
 number = np.random.randint(1, 101) # загадываем число 
 count = 0

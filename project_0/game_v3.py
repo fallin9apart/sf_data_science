@@ -1,4 +1,4 @@
-import numpy as np
+import testnumpy as np
 def random_predict(number) -> int:
     """Компьютер угадывает рандомное число
     Args:
